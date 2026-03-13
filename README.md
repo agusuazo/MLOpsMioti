@@ -208,9 +208,7 @@ mlflow server \
     --port 5000
 ```
 
-Ejecutamos consola MLFlow para navegar a http://local
-
-host:5000 y ver el historial
+Ejecutamos consola MLFlow para navegar a http://localhost:5000 y ver el historial
 ```
 nohup mlflow ui --port 5000 &
 ```
